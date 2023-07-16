@@ -1,0 +1,24 @@
+[
+  {
+    "id": "wood",
+    "material": "OAK_LOG",
+    "name": "<red><!i>Wood Generator",
+    "lore": [
+      "<green><!i>Place generator to begin"
+    ],
+    "isEnchanted": false,
+    "customModelData": 0,
+    "upgradeCost": 100,
+    "drop": {
+      "material": "IRON_INGOT",
+      "name": "<gray><!i>bruh",
+      "lore": [
+        "<!i>bruh",
+        "<!i><rainbow>blowwwwwwwwwww"
+      ],
+      "isEnchanted": false,
+      "customModelData": 0,
+      "sellPrice": 10
+    }
+  }
+]

@@ -1,0 +1,19 @@
+#
+#
+#   Thanks for using Generators plugin by AlmanaX21
+#   Contact me on discord: almanax21
+#
+
+#
+#   To change the prefix before server messages, apply changes here
+#
+
+SERVER-PREFIX: "<green>[GENERATORS]: "
+
+#
+#   Set the maximum starter generator slots with this setting
+#   Generator slots refers to the number of generators a player can place
+#   Too many generators per player can cause lag so be careful with this setting
+#
+
+MAX-GENERATOR-SLOTS: 10

@@ -1,0 +1,11 @@
+name: Generators
+version: '${project.version}'
+main: me.almana.generators.Generators
+author: AlmanaX21
+prefix: Generators
+api-version: '1.20'
+commands:
+  gen:
+    permission: generator.admin
+    aliases:
+      - generator
